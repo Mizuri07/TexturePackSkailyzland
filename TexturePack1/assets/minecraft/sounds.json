@@ -14,9 +14,9 @@
 			"custom_sounds/farruko_pepas"
 		]
 	},
-		"custom.nombre": {
+		"custom.morat": {
 		"sounds": [
-			"carpetadeltema/nombredeltema"
+			"custom_sounds/morat_no_se_va"
 		]
 	}
 }
